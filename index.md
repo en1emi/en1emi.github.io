@@ -38,7 +38,7 @@ Here's some words about the book _One Hundred Years..._.
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
 
-####The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](www.bbc.com/news)
 
 
 Do you want to [see something fun][a fun place]?
@@ -97,13 +97,13 @@ I read this interesting quote the other day:
 
 
 * Calculus
- * A professor
- * Has no hair
- * Often wears green
+  * A professor
+  * Has no hair
+  * Often wears green
 * Castafiore
- * An opera singer
- * Has white hair
- * Is very famous
+  * An opera singer
+  * Has white hair
+  * Is very famous
 
 
 1. Cut the cheese
@@ -132,4 +132,5 @@ To doubt they were kneeling then.
 
 2. Pour a gallon of milk into the bowl.  
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!  
+
 
